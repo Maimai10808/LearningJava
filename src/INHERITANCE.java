@@ -4,10 +4,6 @@ public class INHERITANCE {
         // Inheritance = One class inherits the attributes and methods
         //                         from another class.
 
-        Dog dog = new Dog();
-        Cat cat = new Cat();
-        Plant plant = new Plant();
-
     }
 }
 
